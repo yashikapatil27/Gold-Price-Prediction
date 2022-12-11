@@ -6,14 +6,14 @@ Coursework for the course ECO319: Time Series and Analysis @IISER Bhopal Fall'22
 1. Assignment:
 Data used: Historical Prices of Sensex (~ 4 years)
 
-i. Data Visualisation
-ii. Trend Seasonality: Tsfresh
-iii. ACF and PACF
-iv. Stationarity Test: KPSS Test, ADF Test
-v. Arima Sarima - tsfresh
-vi. Regression-tsfresh
-vii. Forecasting
-viii. Loss metric
+1.1 Data Visualisation
+1.2 Trend Seasonality: Tsfresh
+1.3 ACF and PACF
+1.4 Stationarity Test: KPSS Test, ADF Test
+1.5 Arima Sarima - tsfresh
+1.6 Regression-tsfresh
+1.7 Forecasting
+1.8 Loss metric
 
 
 2. Project: Gold Price Prediction
