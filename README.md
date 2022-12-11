@@ -3,7 +3,7 @@
 
 Coursework for the course ECO319: Time Series and Analysis @IISER Bhopal Fall'22
 
-Assignment:
+Assignment-
 Data used: Historical Prices of Sensex (~ 4 years)
 
 1. Data Visualisation
@@ -16,8 +16,8 @@ Data used: Historical Prices of Sensex (~ 4 years)
 8. Loss metric
 
 
-Project: Gold Price Prediction
-Data Used: 
+Project: Gold Price Prediction -
+Data Used: Investing.com
 
 1. Data Preprocessing
 2. Data Visualization
