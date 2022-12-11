@@ -1,5 +1,5 @@
 # Gold-Price-Prediction
-Project work for the course Time Series and Analysis @IISERB Fall'22
+Project work for the course ECO319: Time Series and Analysis @IISER Bhopal Fall'22
 
 1. Data Preprocessing
 2. Data Visualization
