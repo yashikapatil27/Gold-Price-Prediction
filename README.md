@@ -16,7 +16,7 @@ Data used: Historical Prices of Sensex (~ 4 years)
 8. Loss metric
 
 
-Project: Gold Price Prediction -
+Project: Gold Price Prediction - (2011-2022)
 Data Used: Investing.com
 
 1. Data Preprocessing
