@@ -1,7 +1,7 @@
 # Time Series Analysis and Forecasting
 ## Course Instructor: Dr. Biswajit Patra
 
-Coursework for the course ECO319: Time Series and Analysis @IISER Bhopal Fall'22
+Coursework for the course ECO319: Time Series and Analysis at IISER Bhopal Fall'22
 
 Assignment-
 Data used: Historical Prices of Sensex (~ 4 years)
